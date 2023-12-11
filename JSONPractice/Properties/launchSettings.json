@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "iAgeTask": {
+      "commandName": "Project",
+      "commandLineArgs": " -add FirstName:Ilya LastName:Morin Salary:150.50 -getall"
+    }
+  }
+}
